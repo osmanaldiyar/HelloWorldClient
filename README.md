@@ -1,8 +1,8 @@
 # helloWorldClient
 Hello world client on Angular 7.
 
-git clone https://github.com/osmanaldiyar/helloWorldServer.git
-cd domashneezadanie
-mvn spring-boot:run
-cd client/project1. After that: npm install then: npm start
-In your browser go to localhost:4200.
+1. git clone https://github.com/osmanaldiyar/helloWorldServer.git
+2. cd domashneezadanie
+3. mvn spring-boot:run
+4. cd client/project1. After that: npm install then: npm start
+5. In your browser go to localhost:4200.
